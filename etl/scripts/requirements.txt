@@ -2,4 +2,3 @@ pandas
 xlrd
 ddf_utils
 openpyxl
-joblib==1.4.2
