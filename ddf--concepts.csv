@@ -19,7 +19,7 @@ name_short,string,,,,,,,,,,
 name_catalog,string,,,,,,,,,,
 format,string,,,,,,,,,,
 color,string,,,,,,,,,,
-antal,measure,,Antal invånare,Antal invånare i området.,"ibf_demo, _root",,,Antal invånare,Invånare,,
+antal,measure,,Antal invånare,Antal invånare i området,"ibf_demo, _root",,,Antal invånare,Invånare,,
 mean_man,measure,,Andel män,Andel män i området.,ibf_demo,,,Andel män,Män,,share
 mean_kvinna,measure,,Andel kvinnor,Andel kvinnor i området.,ibf_demo,,,Andel kvinnor,Kvinnor,,share
 mean_invand,measure,,Utrikesfödda,Andel utrikesfödda i området.,"ibf_demo, _root",,,Utrikesfödda,Utrikesfödda,,share
