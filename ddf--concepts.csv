@@ -49,7 +49,17 @@ mean_sysselsatt_25_64_man,measure,,"Andel sysselsatta, män (25-64 år)",Andel s
 rank_dispink_20_64,measure,,"Disponibel årsinkomst, rank (20-64 år)",Områdets ranking i disponibel årsinkomst för individer mellan 20-64 år. Disponibel inkomst definieras som inkomst efter skatter och transfereringar.,ibf_ekonomi,,,"Disponibel årsinkomst, rank",Inkomst (rank),,
 median_dispink_20_64,measure,,"Disponibel årsinkomst, median (tkr, 20-64 år)",Medianvärdet i disponibel årsinkomst i tusentals kronor för individer mellan 20-64 år i området. Disponibel inkomst definieras som inkomst efter skatter och transfereringar. Inflationsjusterat med år 2022 som bas.,ibf_ekonomi,,,"Disponibel årsinkomst, median",Inkomst (median),,
 mean_arsmodell,measure,,Årsmodell (personbilar),Genomsnittlig årsmodell av personbilar i området.,ibf_fordon,,,Årsmodell,Årsmodell,,
-mean_antal_bilar,measure,,Antal personbilar per boende,Antal personbilar per boende i området.,ibf_fordon,,,Antal personbilar per boende,Antal personbilar,,
+mean_bilar,measure,,Antal personbilar per boende,Antal personbilar per boende i området.,ibf_fordon,,,Antal personbilar per boende,Antal personbilar,,
 mean_korstracka,measure,,Körsträckor (personbilar),Genomsnittlig körsträcka för personbilar i området. Värden för åren 1999-2022.,ibf_fordon,,,Körsträckor,Körsträckor,,
-inmovers,measure,,Andel inflyttade,"Andel inflyttade boende i området, beräknat utifrån antalet som inte bodde i området året före. Värden för åren 1991-2022.",ibf_mobilitet,,,Andel inflyttade,Inflyttning,,share
-outmovers,measure,,Andel utflyttare,"Andel utflyttade boende i området, beräknat utifrån antalet som inte bor i området året efter. Värden för åren 1990-2021.",ibf_mobilitet,,,Andel utflyttare,Utflyttning,,share
+movers_in,measure,,Andel inflyttade,"Andel inflyttade boende i området, beräknat utifrån antalet som inte bodde i området året före. Värden för åren 1991-2022.",ibf_mobilitet,,,Andel inflyttade,Inflyttning,,share
+movers_out,measure,,Andel utflyttare,"Andel utflyttade boende i området, beräknat utifrån antalet som inte bor i området året efter. Värden för åren 1990-2021.",ibf_mobilitet,,,Andel utflyttare,Utflyttning,,share
+mean_boarea_allmhyres,measure,,Bostadsarea (allmännyttig hyresrätt),Genomsnittlig bostadsarea per hushåll i allmännyttig hyresrätt.,ibf_boende,,,Bostadsarea,Bostadsarea (allmännyttig hyresrätt),,share
+mean_andelhushall_allmhyres,measure,,Andel (allmännyttig hyresrätt),Andel hushåll i allmännyttig hyresrätt i området.,ibf_boende,,,Andel,Andel (allmännyttig hyresrätt),,share
+mean_boarea_brf,measure,,Bostadsarea (bostadsrätt),Genomsnittlig bostadsarea per hushåll i bostadsrätt.,ibf_boende,,,Bostadsarea,Bostadsarea (bostadsrätt),,share
+mean_andelhushall_brf,measure,,Andel (bostadsrätt),Andel hushåll i bostadsrätt i området.,ibf_boende,,,Andel,Andel (bostadsrätt),,share
+mean_boarea_privhyres,measure,,Bostadsarea (privat hyresrätt),Genomsnittlig bostadsarea per hushåll i privatägd hyresrätt.,ibf_boende,,,Bostadsarea,Bostadsarea (privat hyresrätt),,share
+mean_andelhushall_privhyres,measure,,Andel (privat hyresrätt),Andel hushåll i privatägd hyresrätt i området.,ibf_boende,,,Andel,Andel (privat hyresrätt),,share
+mean_boarea_smahus,measure,,Bostadsarea (småhus),Genomsnittlig bostadsarea per hushåll i småhus.,ibf_boende,,,Bostadsarea,Bostadsarea (småhus),,share
+mean_andelhushall_smahus,measure,,Andel (småhus),Andel hushåll i småhus i området.,ibf_boende,,,Andel,Andel (småhus),,share
+mean_trangbodd_hyres,measure,,Trångboddhet (hyresrätt),"Andel trångbodda hushåll i hyresrätt i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Trångboddhet (hyresrätt),,share
+mean_trangbodd_brf,measure,,Trångboddhet (bostadsrätt),"Andel trångbodda hushåll i bostadsrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Trångboddhet (bostadsrätt),,share
