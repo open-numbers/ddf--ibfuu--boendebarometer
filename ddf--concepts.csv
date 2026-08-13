@@ -54,7 +54,7 @@ mean_korstracka,measure,,Körsträckor (personbilar),Genomsnittlig körsträcka 
 movers_in,measure,,Inflyttning (andel),"Andel inflyttade invånare i området, beräknat utifrån antalet som inte bodde i området året före. Data för åren 1991-2022.",ibf_mobilitet,,,Inflyttning,Inflyttning,,share
 movers_out,measure,,Utflyttning (andel),"Andel utflyttade invånare i området, beräknat utifrån antalet som inte bor i området året efter. Data för åren 1990-2021.",ibf_mobilitet,,,Utflyttning,Utflyttning,,share
 mean_boarea_allmhyres,measure,,Bostadsarea (allmännyttiga hyresrätter),Genomsnittlig bostadsarea per hushåll i allmännyttiga hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (allmännyttiga hyresrätter),,share
-mean_andelhushall_allmhyres,measure,,Allmännyttiga hyresrätter,Andel hushåll i allmännyttiga hyresrätter i området.,ibf_boende,,,Allmännyttiga hyresrätter,Andel allmännyttig hyresrätt,,share
+mean_andelhushall_allmhyres,measure,,Allmännyttiga hyresrätter,Andel hushåll i allmännyttiga hyresrätter i området.,ibf_boende,,,Allmännyttiga hyresrätter,Andel allmännyttiga hyresrätter,,share
 mean_boarea_brf,measure,,Bostadsarea (bostadsrätter),Genomsnittlig bostadsarea per hushåll i bostadsrätter i området.,ibf_boende,,,Bostadsarea,Bostadsarea (bostadsrätt),,share
 mean_andelhushall_brf,measure,,Bostadsrätter,Andel hushåll i bostadsrätter i området.,ibf_boende,,,Bostadsrätter,Andel bostadsrätter,,share
 mean_boarea_privhyres,measure,,Bostadsarea (privata hyresrätter),Genomsnittlig bostadsarea per hushåll i privatägda hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (privata hyresrätter),,share
