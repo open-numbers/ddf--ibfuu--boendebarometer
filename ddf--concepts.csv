@@ -53,13 +53,13 @@ mean_bilar,measure,,Personbilar per boende (antal),Antal personbilar per boende 
 mean_korstracka,measure,,Körsträckor (personbilar),Genomsnittlig körsträcka för personbilar i området. Data för åren 1999-2022.,ibf_fordon,,,Körsträckor,Körsträckor,,
 movers_in,measure,,Inflyttning (andel),"Andel inflyttade invånare i området, beräknat utifrån antalet som inte bodde i området året före. Data för åren 1991-2022.",ibf_mobilitet,,,Inflyttning,Inflyttning,,share
 movers_out,measure,,Utflyttning (andel),"Andel utflyttade invånare i området, beräknat utifrån antalet som inte bor i området året efter. Data för åren 1990-2021.",ibf_mobilitet,,,Utflyttning,Utflyttning,,share
-mean_boarea_allmhyres,measure,,Bostadsarea (allmännyttiga hyresrätter),Genomsnittlig bostadsarea per hushåll i allmännyttiga hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (allmännyttiga hyresrätter),,share
+mean_boarea_allmhyres,measure,,Bostadsarea (allmännyttiga hyresrätter),Genomsnittlig bostadsarea per hushåll i allmännyttiga hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (allmännyttiga hyresrätter),,
 mean_andelhushall_allmhyres,measure,,Allmännyttiga hyresrätter,Andel hushåll i allmännyttiga hyresrätter i området.,ibf_boende,,,Allmännyttiga hyresrätter,Andel allmännyttiga hyresrätter,,share
-mean_boarea_brf,measure,,Bostadsarea (bostadsrätter),Genomsnittlig bostadsarea per hushåll i bostadsrätter i området.,ibf_boende,,,Bostadsarea,Bostadsarea (bostadsrätt),,share
+mean_boarea_brf,measure,,Bostadsarea (bostadsrätter),Genomsnittlig bostadsarea per hushåll i bostadsrätter i området.,ibf_boende,,,Bostadsarea,Bostadsarea (bostadsrätt),,
 mean_andelhushall_brf,measure,,Bostadsrätter,Andel hushåll i bostadsrätter i området.,ibf_boende,,,Bostadsrätter,Andel bostadsrätter,,share
-mean_boarea_privhyres,measure,,Bostadsarea (privata hyresrätter),Genomsnittlig bostadsarea per hushåll i privatägda hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (privata hyresrätter),,share
+mean_boarea_privhyres,measure,,Bostadsarea (privata hyresrätter),Genomsnittlig bostadsarea per hushåll i privatägda hyresrätter.,ibf_boende,,,Bostadsarea,Bostadsarea (privata hyresrätter),,
 mean_andelhushall_privhyres,measure,,Privata hyresrätter,Andel hushåll i privatägda hyresrätter i området.,ibf_boende,,,Privata hyresrätter,Andel privata hyresrätter,,share
-mean_boarea_smahus,measure,,Bostadsarea (småhus),Genomsnittlig bostadsarea per hushåll i småhus i området.,ibf_boende,,,Bostadsarea,Bostadsarea (småhus),,share
+mean_boarea_smahus,measure,,Bostadsarea (småhus),Genomsnittlig bostadsarea per hushåll i småhus i området.,ibf_boende,,,Bostadsarea,Bostadsarea (småhus),,
 mean_andelhushall_smahus,measure,,Småhus,Andel hushåll i småhus i området.,ibf_boende,,,Småhus,Andel småhus,,share
-mean_trangbodd_hyres,measure,,Trångboddhet (hyresrätter),"Andel trångbodda hushåll i hyresrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Trångboddhet i hyresrätter,,share
-mean_trangbodd_brf,measure,,Trångboddhet (bostadsrätter),"Andel trångbodda hushåll i bostadsrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Trångboddhet i bostadsrätter,,share
+mean_trangbodd_hyres,measure,,Trångboddhet (hyresrätter),"Andel trångbodda hushåll i hyresrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Andel trångbodda i hyresrätter,,share
+mean_trangbodd_brf,measure,,Trångboddhet (bostadsrätter),"Andel trångbodda hushåll i bostadsrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Andel trångbodda i bostadsrätter,,share
