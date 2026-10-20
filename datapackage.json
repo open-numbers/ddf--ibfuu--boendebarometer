@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2026-08-13T12:35:18.153009+00:00",
+    "created": "2026-10-20T19:06:15.007243+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -1770,6 +1770,48 @@
                     },
                     {
                         "name": "median_dispink_20_64"
+                    }
+                ],
+                "primaryKey": [
+                    "regso",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--medianhyra--by--kommun--year",
+            "path": "ddf--datapoints--medianhyra--by--kommun--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "kommun"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "medianhyra"
+                    }
+                ],
+                "primaryKey": [
+                    "kommun",
+                    "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--medianhyra--by--regso--year",
+            "path": "ddf--datapoints--medianhyra--by--regso--year.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "regso"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "medianhyra"
                     }
                 ],
                 "primaryKey": [
@@ -3748,6 +3790,37 @@
                 "value": "median_dispink_20_64",
                 "resources": [
                     "ddf--datapoints--median_dispink_20_64--by--regso--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "year"
+                ],
+                "value": "medianhyra",
+                "resources": [
+                    "ddf--datapoints--medianhyra--by--kommun--year",
+                    "ddf--datapoints--medianhyra--by--regso--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "kommun",
+                    "year"
+                ],
+                "value": "medianhyra",
+                "resources": [
+                    "ddf--datapoints--medianhyra--by--kommun--year"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "regso",
+                    "year"
+                ],
+                "value": "medianhyra",
+                "resources": [
+                    "ddf--datapoints--medianhyra--by--regso--year"
                 ]
             },
             {

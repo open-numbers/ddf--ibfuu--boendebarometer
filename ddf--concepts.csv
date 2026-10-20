@@ -63,3 +63,4 @@ mean_boarea_smahus,measure,,"Bostadsarea (m2, småhus)",Genomsnittlig bostadsare
 mean_andelhushall_smahus,measure,,Småhus (andel hushåll),Andel hushåll i småhus i området.,ibf_boende,,,Småhus,Andel småhus,,share
 mean_trangbodd_hyres,measure,,"Trångboddhet (andel hushåll, hyresrätter)","Andel trångbodda hushåll i hyresrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Andel trångbodda i hyresrätter,,share
 mean_trangbodd_brf,measure,,"Trångboddhet (andel hushåll, bostadsrätter)","Andel trångbodda hushåll i bostadsrätter i området. Trångboddhet definieras som om fler än två vuxna delar sovrum, och/eller om fler än två barn delar sovrum.",ibf_boende,,,Trångboddhet,Andel trångbodda i bostadsrätter,,share
+medianhyra,measure,,Medianhyra (Hyresrätter),Medianhyran i hyresrätter i området.,ibf_boende,,,Medianhyra,Medianhyra,,
